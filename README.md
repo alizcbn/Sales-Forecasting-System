@@ -13,3 +13,10 @@ Bu proje, Excel’den alınan satış verilerini Python ile analiz edip, basit b
 - Tahmin sonuçlarını grafikle gösterir ve dosyaya kaydeder
 
 ---
+## 📊 Satış Tahmin Grafiği
+
+Aşağıda geçmiş satışlar ve tahmin sonuçlarını gösteren grafik yer almaktadır:
+
+![Satış Tahmin Grafiği](docs/satis-grafik.png)
+
+---
